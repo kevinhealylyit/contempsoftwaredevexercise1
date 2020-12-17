@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Richard Figg"
 ---
 I like C# because its all I really use
