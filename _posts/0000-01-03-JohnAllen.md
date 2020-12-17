@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "John Allen loves Java!"
 ---
 
 Use the right arrow to begin!
